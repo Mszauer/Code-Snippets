@@ -20,8 +20,6 @@ There is currently no versioning for the code snippets.
 
 * **Martin Szauer** - *Initial work* - [Mszauer](https://www.martinszauer.com)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
